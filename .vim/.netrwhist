@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/bakul/.config/polybar'
+let g:netrw_dirhist_2='/home/bakul/Projects/ckt/models'
+let g:netrw_dirhist_3='/home/bakul/Projects/udyam/mosaic/lvl1/CROHME_extractor/classes'
+let g:netrw_dirhist_4='/home/bakul/Projects/misc'
